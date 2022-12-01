@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arist12
-- 🌱 I’m a student of Shanghai Jiaotong University, majoring in computer science(IEEE honor class)
-- ✨ My research interests mainly lie in Natural Language Processing
+- 🌱 I’m a undergraduate student in Shanghai Jiaotong University, majoring in computer science(IEEE honor class)
+- ✨ My current research interest mainly lies in Natural Language Processing
 - 📫 How to reach me: E-Mail:1065543666@sjtu.edu.cn Wechat:YkZ_Alpha12
 
 <!---
