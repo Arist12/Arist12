@@ -2,13 +2,10 @@
 
 I build AI agents @ AMD.
 
-I'm broadly interested in LLMs.
-
-
-### Experience
-- Member of Technical Staff @ **AMD** (Jun 2026 - Present)
+### Work
+- Research Scientist @ **AMD** (Jun 2026 - Present)
 - Research Scientist Intern @ **AMD** (Jan 2026 – Jun 2026)
-- Applied Scientist Intern @ **Microsoft** (Jun 2025 – Jan 2026)
+- Applied Scientist Intern @ **Microsoft** (Jun 2025 – Dec 2025)
 
 ### Education
 - MS in Computer Science, University of Wisconsin–Madison (2026)
